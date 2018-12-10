@@ -17,8 +17,8 @@ Reactify is a platform where in you can express your reaction's in terms of quot
  <pre float="center">
   <img src="https://github.com/yuvraj24/Reactify/blob/master/screenshot/login.png" width="250"/>    <img src="https://github.com/yuvraj24/Reactify/blob/master/screenshot/home.png" width="250" />    <img
 src="https://github.com/yuvraj24/Reactify/blob/master/screenshot/create_empty.png" width="250"/>  <br><br><br>  <img
-src="https://github.com/yuvraj24/Reactify/blob/master/screenshot/create.png" width="250"/>    <img
 src="https://github.com/yuvraj24/Reactify/blob/master/screenshot/attach.png" width="250"/>    <img
+src="https://github.com/yuvraj24/Reactify/blob/master/screenshot/create.png" width="250"/>    <img
 src="https://github.com/yuvraj24/Reactify/blob/master/screenshot/profile1.png" width="250"/>  <br><br><br>  <img
 src="https://github.com/yuvraj24/Reactify/blob/master/screenshot/profile.png" width="250"/>   <img
 src="https://github.com/yuvraj24/Reactify/blob/master/screenshot/post.png" width="250"/>    <img
