@@ -3,15 +3,15 @@ import {Platform, StatusBar  } from "react-native";
 export default {
 
     images: {
-        heartIcon: require("../../ReactInstagram/assets/like.png"),
-        heartFilledIcon: require("../../ReactInstagram/assets/heart.png"),
-        fireIcon: require("../../ReactInstagram/assets/fire.png"),
-        commentIcon: require("../../ReactInstagram/assets/chat.png"),
-        sendIcon: require("../../ReactInstagram/assets/send.png"),
-        background: require("../../ReactInstagram/assets/start.jpg"),
-        send: require("../../ReactInstagram/assets/navigation.png"),
-        sync: require("../../ReactInstagram/assets/sync.png"),
-        addReaction: require("../../ReactInstagram/assets/add.png"),
+        heartIcon: require("../../ReactifyGithub/assets/like.png"),
+        heartFilledIcon: require("../../ReactifyGithub/assets/heart.png"),
+        fireIcon: require("../../ReactifyGithub/assets/fire.png"),
+        commentIcon: require("../../ReactifyGithub/assets/chat.png"),
+        sendIcon: require("../../ReactifyGithub/assets/send.png"),
+        background: require("../../ReactifyGithub/assets/start.jpg"),
+        send: require("../../ReactifyGithub/assets/navigation.png"),
+        sync: require("../../ReactifyGithub/assets/sync.png"),
+        addReaction: require("../../ReactifyGithub/assets/add.png"),
     },
 
     colors: {
