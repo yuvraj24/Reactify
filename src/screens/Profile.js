@@ -205,7 +205,7 @@ export default class Profile extends Component {
                                     data={this.state.dataSource}
                                     renderItem={({ item }) => <ProfileInstaPost reaction={item} profile={this.state.profile} />}
                                     keyExtractor={(item, index) => index.toString()}
-                                    numColumns={3}
+                                    numColumns={2}
                                     extraData={this.state}
                                 />
                             </View>
